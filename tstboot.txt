@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Primeiro Exercicio - Orientação a objetos</title>
+    <link rel="stylesheet"  href="bootstrap-3.3.6-dist/css/bootstrap.css">
+    <link rel="stylesheet"  href="bootstrap-3.3.6-dist/css/bootstrap-theme.css">
+    <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+	<script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.js"></script>
+</head>
+<body>
+<div class="container"> 
+<div class="row">  
+<div class="col-md-3">   
+<h3>Elemento &lt;code&gt;</h3>    
+<p>Os elementos 
+<code>&lt;div&gt;</code> e 
+<code>&lt;span&gt;     </code>não têm valor semântico.</p>  
+</div>  
+<div class="col-md-3">   
+<h3>Elemento &lt;kbd&gt;</h3>    
+<p>Para aumentar pressione 
+<kbd>Ctr +</kbd></p>  
+</div>  
+<div class="col-md-3">   
+<h3>Elemento &lt;var&gt;</h3>    <p>A equação da reta é <var>y</var> = a<var>x</var> + b</p>  </div>  <div class="col-md-3">   
+<h3>Elemento &lt;samp&gt;</h3>    <p>Os retorno do script foi <samp>true</samp></p>  </div> </div> <!-- /.row --> <hr> <div class="row">  
+<div class="col-md-6">  <h3>Elemento &lt;pre&gt;</code></h3>  <pre>   &lt;!DOCTYPE html>Boostrap 3.3.578
+   &lt;html lang="pt-br">   &lt;head>   ...  </pre>  </div>  <div class="col-md-6">  <h3>Elemento &lt;pre class="pre-scrollable"&gt;</code></h3> 
+   <pre class="pre-scrollable">   &lt;!DOCTYPE html>   &lt;html lang="pt-br">   &lt;head>   ...  </pre>  </div> </div> <!-- /.row -->
+   </div> <!-- /.container -->
+</body>
